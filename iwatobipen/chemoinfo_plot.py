@@ -18,7 +18,6 @@ from rdkit.Chem import Draw
 from rdkit.Chem.Draw import rdDepictor
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
-import molplotly4flask
 import useful_rdkit_utils
 import dash_bootstrap_components as dbc
  
